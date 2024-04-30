@@ -1,0 +1,12 @@
+catalyst==22.4
+grad_cam==1.4.6
+matplotlib==3.5.2
+mtcnn_opencv==1.0.2
+numpy==1.23.1
+opencv_python==4.6.0.66
+torch==1.12.1
+torch_dct==0.1.5
+torchmetrics==0.10.1
+torchvision==0.13.1
+tqdm==4.64.1
+tsnecuda==3.0.1
